@@ -1,0 +1,12 @@
+{
+    "name": "polls-app",
+    "version": "0.0.1",
+    "description": "my server polls",
+    "scripts": {
+      "start": "nodemon manage.py runserver",
+      "test": "nodemon manage.py test polls"
+    },
+    "dependencies": {
+
+    }
+  }
